@@ -1,6 +1,6 @@
 # Damian Romero's Professional Presentations
 
-These are some of my professional presentations. They all use Marp for easy, Markdown-based slide creation and presentation. Each presentation is organized in its own folder and can be viewed directly through the links provided on the landing page.
+These are some of my professional presentations. They all use [Marp](https://github.com/marp-team/marp-cli) for easy, Markdown-based slide creation and presentation. Each presentation is organized in its own folder and can be viewed directly through the links provided on the landing page.
 
 ## Presentations
 
