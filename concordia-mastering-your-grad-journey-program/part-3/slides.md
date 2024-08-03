@@ -177,6 +177,7 @@ For example, mine will be this:
 - [Obsidian Help](https://help.obsidian.md/Home)
 - [Obsidian Multiple Cursors Plugin](https://github.com/SkepticMystic/advanced-cursors) for people who like to use more than one cursor like in Sublime Text and VS Code.
 - [Add Due Date Notifications to a GitHub Repository](https://github.com/marketplace/actions/due-date-notifications-via-comments)
+- [Learn about Git and GitHub](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/)
 
 ---
 
